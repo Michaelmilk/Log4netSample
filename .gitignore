@@ -1,0 +1,10 @@
+/*/bin/
+/*/obj/
+/*/objd/
+packages/
+
+*.log
+
+*.log.*
+
+.vs/
